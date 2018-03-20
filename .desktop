@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Visual Studio Code
+Exec=/home/public/apps/vscode/launch.sh
+Icon=/home/public/apps/vscode/icon.png
+Terminal=false
+StartupNotify=false
